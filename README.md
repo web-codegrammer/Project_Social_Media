@@ -1,5 +1,5 @@
 # ShareMe Social Media Application
-![ShareMe]
+![ShareMe](https://remix.run/docs)
 
 ## Introduction
 This is a code repository for the corresponding video tutorial.
