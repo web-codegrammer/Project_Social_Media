@@ -1,10 +1,9 @@
-# ShareMe Social Media Application
-![ShareMe](https://remix.run/docs)
+# ImageSharegram Social Media Application
+![ImageSharegram](https://remix.run/docs)
 
 ## Introduction
-This is a code repository for the corresponding video tutorial.
-
-Using React, Tailwind & Sanity you'll learn how to build a Full Stack Social Media Application - from start to finish.
+This is a code repository for the corresponding ImageSharegram Social Media Application
+Using React, Tailwind & Sanity i learnt how to build a Full Stack Social Media Application - from start to finish i.e: Scratch
 
 ## Project is Licensed Under the
 
